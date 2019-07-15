@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\bin\Debug\ChainOfRepo.exe.config
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\bin\Debug\ChainOfRepo.exe
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\bin\Debug\ChainOfRepo.pdb
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\obj\Debug\ChainOfRepo.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\obj\Debug\ChainOfRepo.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\obj\Debug\ChainOfRepo.exe
+c:\users\hackeru\source\repos\ChainOfRepo\ChainOfRepo\obj\Debug\ChainOfRepo.pdb
