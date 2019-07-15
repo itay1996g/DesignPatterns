@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe.config
+c:\users\hackeru\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe
+c:\users\hackeru\source\repos\Prototype\Prototype\bin\Debug\Prototype.pdb
+c:\users\hackeru\source\repos\Prototype\Prototype\obj\Debug\Prototype.exe
+c:\users\hackeru\source\repos\Prototype\Prototype\obj\Debug\Prototype.pdb
