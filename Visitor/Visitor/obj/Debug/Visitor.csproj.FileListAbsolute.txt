@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\HackerU\source\repos\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\HackerU\source\repos\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\HackerU\source\repos\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\HackerU\source\repos\Visitor\Visitor\obj\Debug\Visitor.pdb
