@@ -1,0 +1,6 @@
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HackerU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
