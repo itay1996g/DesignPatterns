@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\HackerU\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\HackerU\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\HackerU\source\repos\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\HackerU\source\repos\Builder\Builder\obj\Debug\Builder.pdb
