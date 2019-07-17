@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\HackerU\source\repos\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\HackerU\source\repos\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\HackerU\source\repos\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\HackerU\source\repos\Bridge\Bridge\obj\Debug\Bridge.pdb
