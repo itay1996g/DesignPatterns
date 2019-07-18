@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\bin\Debug\FinalTest8.exe.config
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\bin\Debug\FinalTest8.exe
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\bin\Debug\FinalTest8.pdb
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\obj\Debug\FinalTest8.csprojResolveAssemblyReference.cache
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\obj\Debug\FinalTest8.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\obj\Debug\FinalTest8.exe
+c:\users\hackeru\source\repos\FinalTest8\FinalTest8\obj\Debug\FinalTest8.pdb
