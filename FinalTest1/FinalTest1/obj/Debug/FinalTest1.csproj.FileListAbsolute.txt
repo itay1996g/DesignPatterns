@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\obj\Debug\FinalTest1.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\obj\Debug\FinalTest1.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\bin\Debug\FinalTest1.exe.config
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\bin\Debug\FinalTest1.exe
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\bin\Debug\FinalTest1.pdb
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\obj\Debug\FinalTest1.exe
+C:\Users\HackerU\source\repos\FinalTest1\FinalTest1\obj\Debug\FinalTest1.pdb
