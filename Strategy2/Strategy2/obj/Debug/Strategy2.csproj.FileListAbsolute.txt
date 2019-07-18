@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\bin\Debug\Strategy2.exe.config
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\bin\Debug\Strategy2.exe
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\bin\Debug\Strategy2.pdb
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\obj\Debug\Strategy2.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\obj\Debug\Strategy2.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\obj\Debug\Strategy2.exe
+C:\Users\HackerU\source\repos\Strategy2\Strategy2\obj\Debug\Strategy2.pdb
