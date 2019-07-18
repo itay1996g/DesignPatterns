@@ -1,0 +1,6 @@
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\bin\Debug\FinalTest3.exe.config
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\bin\Debug\FinalTest3.exe
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\bin\Debug\FinalTest3.pdb
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\obj\Debug\FinalTest3.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\obj\Debug\FinalTest3.exe
+C:\Users\HackerU\source\repos\FinalTest3\FinalTest3\obj\Debug\FinalTest3.pdb
